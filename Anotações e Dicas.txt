@@ -1,0 +1,26 @@
+🗂️ Estrutura sugerida do repositório: bootcamp-stack-tecnologia
+
+bootcamp-stack-tecnologia/
+├── README.md
+├── modulo-2-html-css3/
+│   ├── atividade-01/
+│   ├── atividade-02/
+│   ├── atividade-03/
+│   └── atividade-04/
+├── modulo-3-javascript/
+│   ├── atividade-01/
+│   ├── atividade-02/
+│   ├── ... até atividade-14/
+├── modulo-4-reactjs/
+│   ├── atividade-01/
+│   ├── ... até atividade-08/
+├── modulo-5-banco-de-dados/
+│   ├── atividade-01/
+│   └── atividade-02/
+├── modulo-6-nodejs/
+│   ├── atividade-01/
+│   ├── ... até atividade-07/
+└── extras/
+    ├── anotações/
+    ├── links-uteis.md
+    └── certificados/
